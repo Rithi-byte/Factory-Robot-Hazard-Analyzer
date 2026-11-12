@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.util.Map;
 public class UC4_HazardAnalyzer {
 
     public static void main(String[] args) {
